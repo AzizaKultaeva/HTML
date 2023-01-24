@@ -1,0 +1,17 @@
+.class {
+    title-position: absolute;
+width: 420px;
+height: 47px;
+left: 299px;
+top: 114px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 64px;
+display: flex;
+align-items: center;
+
+color: #424242
+}
